@@ -1,0 +1,10 @@
+{
+  "search.exclude": {
+    "**/.next": true,
+    "**/node_modules": true
+  },
+  "workbench.colorTheme": "SynthWave '84",
+  "javascript.format.enable": false,
+  "prettier.eslintIntegration": true,
+  "eslint.enable": true
+}
